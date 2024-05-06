@@ -18,7 +18,7 @@
 
 ### Contact me: 
 <div align="start">
-<a href = "mailto:VituTrabalho@outlook.com"> <img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:v.emanoel.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-emanoel-6b2464253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
