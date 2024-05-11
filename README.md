@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=Python&logoColor=4FC08D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-252121?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-642121?style=for-the-badge&logo=html5&logoColor=white)&nbsp
+![HTML5](https://img.shields.io/badge/HTML5-642121?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
  
 
 ### Contact me: 
